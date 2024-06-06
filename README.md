@@ -5,7 +5,7 @@ Hi there! I'm Eduardo, a passionate software developer and tech enthusiast.
 ## About Me
 
 - **🌍 Background**: I am currently living in Ireland, but I was born in **Argentina** 🇦🇷🧉. This multicultural experience has enriched my perspective and approach to technology.
-- **👨‍💻 Developer**: I specialize in a wide range of technologies and frameworks, including TypeScript, JavaScript, React (both JS and Native), and Node.js for both BE and FE development. I have extensive experience in architecting and implementing scalable solutions on AWS cloud infrastructure.
+- **👨‍💻 Developer**: I specialize in a wide range of technologies and frameworks, including TypeScript, JavaScript, React (JS and Native), and Node.js for both BE and FE development. I have extensive experience in architecting and implementing scalable solutions on diverse cloud infrastructures (AWS, MS Azure, Google Cloud Platform, DigitalOcean, and some more).
 - **🛠️ Problem Solver**: I love tackling complex problems and finding innovative solutions.
 - **🗣 Leader**: I enjoy guiding teams, fostering collaboration and driving projects to success.
 - **✈️ Traveler**: I have been fortunate to travel around the world since a young age, living and working in diverse cultural settings. This exposure has sharpened my adaptability and intercultural communication skills, which I bring to my work in software development.
