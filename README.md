@@ -1,4 +1,4 @@
-# Welcome human! 👋🤖
+# Greetings, Humanoid! 👋🤖
 
 Hi there! I'm Eduardo, a passionate software developer and tech enthusiast.  
 
