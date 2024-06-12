@@ -23,7 +23,6 @@ Hi there! I'm Eduardo, a software developer and tech enthusiast.
 **Feel free to reach out** if you'd like to work together on something exciting! 🦾
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/eduardobruno/)
-- [![Instagram](https://img.shields.io/badge/Instagram-Follow-critical?logo=instagram)](https://www.instagram.com/edu_brun0/)
 - [![Email](https://img.shields.io/badge/Email-eduardo.luis.bruno@gmail.com-blue)](mailto:eduardo.luis.bruno@gmail.com)
 
 
