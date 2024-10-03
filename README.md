@@ -1,6 +1,6 @@
 # Greetings, Humanoid! 👋🤖
 
-Hi there! I'm Eduardo, a software developer and tech enthusiast.  
+Hi there! I'm Eduardo, a software engineer and tech enthusiast.  
 
 ## About Me
 
