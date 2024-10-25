@@ -11,8 +11,14 @@ Hi there! I'm Eduardo, a software engineer and tech enthusiast.
 - **✈️ Traveler**: I have been fortunate to travel around the world since a young age, living and working in diverse cultural settings.
 - **🎵 Music Enthusiast**: I love music festivals and have a particular passion for **House**, **Progressive** and **Techno** music. Music is a big part of my life and often inspires my work.
 - **📷 Photography Lover**: I have a deep appreciation for photography and visual arts in general.
+  
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,bitbucket,cloudflare,firebase,docker,kubernetes,terraform)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,dynamodb)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=gitlab,react,redux,angular,vue,nextjs,nodejs)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=php,js,ts,html,css,wasm,babel,bootstrap,tailwind,cypress,figma)](https://skillicons.dev)
 ## What You'll Find Here
 
 - **💡 Projects**: A diverse range of projects showcasing my skills in development, from simple web apps to complex projects.
@@ -28,3 +34,4 @@ Hi there! I'm Eduardo, a software engineer and tech enthusiast.
 
 Thank you for visiting my GitHub profile.  
 Let's make history together! ✨🚀
+
