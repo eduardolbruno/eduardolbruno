@@ -32,6 +32,4 @@ Hi there! I'm Eduardo, a software engineer and tech enthusiast.
 - [![Email](https://img.shields.io/badge/Email-eduardo.luis.bruno@gmail.com-blue)](mailto:eduardo.luis.bruno@gmail.com)
 
 
-Thank you for visiting my GitHub profile.  
 Let's make history together! ✨🚀
-
