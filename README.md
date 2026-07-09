@@ -1,7 +1,7 @@
 # Hi, I'm Eduardo Bruno 👋
 
 Senior Software Engineer / Principal Engineer based in Dublin, Ireland 🇮🇪  
-I build scalable platforms, lead engineering initiatives, and help teams deliver reliable products across web, mobile, cloud, payments and AI-enabled workflows.
+I build scalable platforms, lead engineering initiatives, and help teams deliver reliable products across web, mobile, cloud, payments, and AI-enabled workflows.
 
 ---
 
@@ -9,7 +9,7 @@ I build scalable platforms, lead engineering initiatives, and help teams deliver
 
 - 💻 **Senior / Principal Software Engineer** with 15+ years of experience across startups, scale-ups and global companies.
 - 🚀 Currently working at **Skippio**, building high-traffic venue ordering and fan-experience platforms used across Ireland, the UK, UAE and Australia.
-- 🧠 Experienced in **software architecture, product delivery, mentoring, technical leadership and hands-on development**.
+- 🧠 Experienced in **software architecture, product delivery, mentoring, technical leadership, and hands-on development**.
 - 💳 Strong experience with **payments and ordering integrations**, including Stripe, PayPal, Square, Clover and Kapture.
 - 🤖 Interested in practical AI integrations that improve operations, automation, customer experience and engineering workflows.
 - 🌍 Background across Argentina, Ireland and international teams, with experience in both startup and enterprise environments.
@@ -69,4 +69,4 @@ Engineering leadership · Technical mentoring · Architecture decisions · Cross
 
 ---
 
-_Always building, learning and improving._ 🚀
+_Always building, learning, and improving._ 🚀
