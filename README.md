@@ -34,6 +34,9 @@ PostgreSQL · MySQL · SQL Server · MongoDB · SQLite · DynamoDB · Prisma · 
 ### Frontend & Product
 React · Next.js · React Native · Expo · Material UI · Tailwind CSS · Accessibility · Performance optimization · Design systems
 
+### Architecture & Systems
+System Design · Distributed Systems · Scalability · Observability · API Design · Cloud Architecture · Event-driven Architecture
+
 ### Leadership
 Engineering leadership · Technical mentoring · Architecture decisions · Cross-functional delivery · Hiring support · Code reviews · Agile delivery
 
@@ -41,10 +44,10 @@ Engineering leadership · Technical mentoring · Architecture decisions · Cross
 
 ## What I’m Working On
 
-- Scalable backend and frontend systems for live events and high-concurrency environments.
-- AI-assisted workflows for automation, support, reporting and operational efficiency.
-- Payment and ordering integrations across multiple providers.
-- Mobile-first marketplace and product experiences.
+- High-concurrency platforms for live events and real-time ordering.
+- AI-assisted workflows for automation, support and operational efficiency.
+- Payment, ordering and third-party integrations.
+- Mobile-first product experiences.
 - Clean architecture, maintainable codebases and better developer experience.
 
 ---
