@@ -3,8 +3,6 @@
 Senior Software Engineer / Principal Engineer based in Dublin, Ireland 🇮🇪  
 I build scalable platforms, lead engineering initiatives, and help teams deliver reliable products across web, mobile, cloud, payments, and AI-enabled workflows.
 
----
-
 ## About Me
 
 - 💻 **Senior / Principal Software Engineer** with 15+ years of experience across startups, scale-ups and global companies.
@@ -15,7 +13,6 @@ I build scalable platforms, lead engineering initiatives, and help teams deliver
 - 🌍 Background across Argentina, Ireland and international teams, with experience in both startup and enterprise environments.
 - 🎧 Outside of tech, I’m into music festivals, house/progressive/techno, travel, gaming and photography.
 
----
 
 ## Core Skills
 
@@ -40,7 +37,6 @@ System Design · Distributed Systems · Scalability · Observability · API Desi
 ### Leadership
 Engineering leadership · Technical mentoring · Architecture decisions · Cross-functional delivery · Hiring support · Code reviews · Agile delivery
 
----
 
 ## What I’m Working On
 
@@ -50,7 +46,6 @@ Engineering leadership · Technical mentoring · Architecture decisions · Cross
 - Mobile-first product experiences.
 - Clean architecture, maintainable codebases and better developer experience.
 
----
 
 ## Tech Stack
 
@@ -58,7 +53,6 @@ Engineering leadership · Technical mentoring · Architecture decisions · Cross
   <img src="https://skillicons.dev/icons?i=ts,js,react,next,nodejs,python,cs,dotnet,php,laravel,symfony,aws,gcp,azure,docker,kubernetes,terraform,postgres,mysql,mongodb,sqlite,graphql,git,github,gitlab,vercel,figma" />
 </p>
 
----
 
 ## Contact
 
@@ -67,6 +61,5 @@ Engineering leadership · Technical mentoring · Architecture decisions · Cross
 - Website: [codingar.com](https://www.codingar.com)
 - Email: eduardo.luis.bruno@gmail.com
 
----
 
 _Always building, learning, and improving._ 🚀
