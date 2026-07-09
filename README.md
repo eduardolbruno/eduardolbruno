@@ -1,35 +1,69 @@
-# Greetings, Humanoid! 👋🤖
+# Hi, I'm Eduardo Bruno 👋
 
-Hi there! I'm Eduardo, a software engineer and tech enthusiast.  
+Senior Software Engineer / Principal Engineer based in Dublin, Ireland 🇮🇪  
+I build scalable platforms, lead engineering initiatives, and help teams deliver reliable products across web, mobile, cloud, payments and AI-enabled workflows.
+
+---
 
 ## About Me
 
-- **🌍 Background**: I am currently living in Ireland, but I was born in **Argentina** 🇦🇷🧉.
-- **👨‍💻 Developer**: I specialize in a wide range of technologies and frameworks, including TypeScript, JavaScript, React, React Native and Node.js for BE and FE development. I have extensive experience in architecting and implementing scalable solutions on diverse cloud infrastructures (AWS, Azure, Google Cloud Platform, DigitalOcean, and some more).
-- **🛠️ Problem Solver**: I love tackling complex problems and finding innovative solutions.
-- **🗣 Leader**: I enjoy guiding teams, fostering collaboration and driving projects to success.
-- **✈️ Traveler**: I have been fortunate to travel around the world since a young age, living and working in diverse cultural settings.
-- **🎵 Music Enthusiast**: I love music festivals and have a particular passion for **House**, **Progressive** and **Techno** music. Music is a big part of my life and often inspires my work.
-- **📷 Photography Lover**: I have a deep appreciation for photography and visual arts in general.
-  
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,bitbucket,cloudflare,firebase,docker,kubernetes,terraform)](https://skillicons.dev)
+- 💻 **Senior / Principal Software Engineer** with 15+ years of experience across startups, scale-ups and global companies.
+- 🚀 Currently working at **Skippio**, building high-traffic venue ordering and fan-experience platforms used across Ireland, the UK, UAE and Australia.
+- 🧠 Experienced in **software architecture, product delivery, mentoring, technical leadership and hands-on development**.
+- 💳 Strong experience with **payments and ordering integrations**, including Stripe, PayPal, Square, Clover and Kapture.
+- 🤖 Interested in practical AI integrations that improve operations, automation, customer experience and engineering workflows.
+- 🌍 Background across Argentina, Ireland and international teams, with experience in both startup and enterprise environments.
+- 🎧 Outside of tech, I’m into music festivals, house/progressive/techno, travel, gaming and photography.
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,dynamodb)](https://skillicons.dev)
+---
 
-[![My Skills](https://skillicons.dev/icons?i=gitlab,react,redux,angular,vue,nextjs,nodejs)](https://skillicons.dev)
+## Core Skills
 
-[![My Skills](https://skillicons.dev/icons?i=php,js,ts,html,css,wasm,babel,bootstrap,tailwind,cypress,figma)](https://skillicons.dev)
-## What You'll Find Here
+### Languages & Frameworks
+TypeScript · JavaScript · Node.js · React · React Native · Next.js · Python · C# · .NET Core · PHP · Laravel · Symfony · CakePHP
 
-- **💡 Projects**: A diverse range of projects showcasing my skills in development, from simple web apps to complex projects.
-- **🤝 Collaboration Opportunities**: I'm always open to new ideas and collaborations.
+### Backend & APIs
+REST APIs · GraphQL · Microservices · Event-driven systems · Authentication · Real-time notifications · Payment APIs · Order APIs
 
+### Cloud & Infrastructure
+AWS · Google Cloud Platform · Azure · Docker · Kubernetes · Terraform · Vercel · DigitalOcean · CI/CD
 
-## Get in Touch
-**Feel free to reach out** if you'd like to work together on something exciting! 🦾
+### Databases & ORMs
+PostgreSQL · MySQL · SQL Server · MongoDB · SQLite · DynamoDB · Prisma · TypeORM · Entity Framework
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/eduardobruno/)
-- [![Email](https://img.shields.io/badge/Email-eduardo.luis.bruno@gmail.com-blue)](mailto:eduardo.luis.bruno@gmail.com)
+### Frontend & Product
+React · Next.js · React Native · Expo · Material UI · Tailwind CSS · Accessibility · Performance optimization · Design systems
 
+### Leadership
+Engineering leadership · Technical mentoring · Architecture decisions · Cross-functional delivery · Hiring support · Code reviews · Agile delivery
 
-Let's make history together! ✨🚀
+---
+
+## What I’m Working On
+
+- Scalable backend and frontend systems for live events and high-concurrency environments.
+- AI-assisted workflows for automation, support, reporting and operational efficiency.
+- Payment and ordering integrations across multiple providers.
+- Mobile-first marketplace and product experiences.
+- Clean architecture, maintainable codebases and better developer experience.
+
+---
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,next,nodejs,python,cs,dotnet,php,laravel,symfony,aws,gcp,azure,docker,kubernetes,terraform,postgres,mysql,mongodb,sqlite,graphql,git,github,gitlab,vercel,figma" />
+</p>
+
+---
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/eduardolbruno](https://www.linkedin.com/in/eduardolbruno)
+- GitHub: [github.com/eduardolbruno](https://github.com/eduardolbruno)
+- Website: [codingar.com](https://www.codingar.com)
+- Email: eduardo.luis.bruno@gmail.com
+
+---
+
+_Always building, learning and improving._ 🚀
